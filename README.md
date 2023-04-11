@@ -1,8 +1,11 @@
-# ISum
+# Information Types Summarization for Issue Report Exploration
 
-1. Data: three datasets have been given
-2. ISum: ISum chrome browser extension tool
-3. Appendix: results of all models
-4. User Study: User study guides and coded scripts
-5. Code: sample models for creating ensemble classifier
+1. iSum Information Detection
+    1.1. Code: Code for Information type detection
+    1.2. Results of iSum performance (Appendix)
+    1.3. Data: three datasets used for training and evaluation have been provided
+2. iSum information summarization
+    2.1. Code: iSum Tool (a chrome browser extension tool)
+    2.2. User Study: User study guides and coded scripts
+
 
